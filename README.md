@@ -1,1 +1,1 @@
-"# vapt-report-generator" 
+# vapt-report-generator
